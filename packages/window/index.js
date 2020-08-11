@@ -1,0 +1,1 @@
+const mywindow = 1111
